@@ -61,7 +61,7 @@ Levi Carlos de Lima Silva
 
 - [Link do Projeto Online na Vercel](https://jogo-advinhacao-alura.vercel.app/)
 - [Curso da Alura - Lógica de Programação: Explore Funções e Listas](https://www.alura.com.br/curso-online-logica-programacao-funcoes-listas)
-- [Curso da Alura - Lógica de Programação: Mergulhe em JavaScript](https://www.alura.com.br/logica-programacao-mergulhe-programacao-javascript)
+- [Curso da Alura - Lógica de Programação: Mergulhe em JavaScript](https://www.alura.com.br/curso-online-logica-programacao-mergulhe-programacao-javascript?srsltid=AfmBOooBRxfaFiLy0klmafIC5c0pYkcrP6e5TPbFvDEdI0jUlmyQM_ZG)
 
 ## 📄 Licença
 
